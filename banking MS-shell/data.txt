@@ -1,0 +1,2 @@
+satya:5500
+dinesh:5000
